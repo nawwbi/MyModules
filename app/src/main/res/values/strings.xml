@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">MyModules</string>
     <string name="textView">My Modules</string>
-    <string name="modules">C346 Android Programming</string>
+    <string name="c346">C346 Android Programming</string>
+    <string name="c206">C206 Software Development </string>
+    <string name="c203">C203 Web App Development in PHP</string>
+    <string name="c218">C218 UI/UX Design For Apps</string>
+    <string name="c235">C235 IT Security and Management</string>
     <string name="button">Back</string>
 </resources>
